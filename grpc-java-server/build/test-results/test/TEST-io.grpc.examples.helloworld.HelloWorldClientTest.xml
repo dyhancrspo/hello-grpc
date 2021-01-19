@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.grpc.examples.helloworld.HelloWorldClientTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-19T01:20:26" hostname="H0001N503661XX" time="0.362">
+  <properties/>
+  <testcase name="greet_messageDeliveredToServer" classname="io.grpc.examples.helloworld.HelloWorldClientTest" time="0.362"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Jan 19, 2021 8:20:26 AM io.grpc.examples.helloworld.HelloWorldClient greet
+INFO: Will try to greet test name ...
+Jan 19, 2021 8:20:26 AM io.grpc.examples.helloworld.HelloWorldClient greet
+WARNING: RPC failed: Status{code=UNIMPLEMENTED, description=Method helloworld.Greeter/SayHello is unimplemented, cause=null}
+]]></system-err>
+</testsuite>
